@@ -36,7 +36,7 @@ Coverage of:
 ---
 
 ## Laws & Government
-https://blog.cybernexora.com/category/laws-government/
+https://blog.cybernexora.com/category/lawsgovernment/
 
 Coverage of:
 - Cybersecurity laws
@@ -100,7 +100,7 @@ Useful cybersecurity resources including:
 ---
 
 ## Contact Us
-https://blog.cybernexora.com/contact-us/
+https://blog.cybernexora.com/report-cyber-incident/
 
 For:
 - Cyber incident reporting
